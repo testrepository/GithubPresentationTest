@@ -1,0 +1,60 @@
+{
+    "Watches":
+    
+    {
+       "women":[{
+           "watch1":{ 
+           "brand":"Fast Track",
+           "Cost" : 1500,
+           "Image":"Path",
+           "Color":"Red",
+           "Discount":"30%"   
+           }},
+           { "watch2":{
+               "brand":"Fast Track",
+           "Cost" : 1000,
+           "Image":"Path",
+           "Color":"Brown",
+           "Discount":"10%"
+           }}
+           ],
+           
+           
+           
+    
+       "men":[{
+           "watch1":{ 
+           "brand":"Fast Track",
+           "Cost" : 1500,
+           "Image":"Path",
+           "Color":"Red",
+           "Discount":"30%"   
+           }},
+           { "watch2":{
+               "brand":"Fast Track",
+           "Cost" : 1000,
+           "Image":"Path",
+           "Color":"Brown",
+           "Discount":"10%"
+           }}
+           ],
+        "kids":[{
+           "watch1":{ 
+           "brand":"Fast Track",
+           "Cost" : 1500,
+           "Image":"Path",
+           "Color":"Red",
+           "Discount":"30%"   
+           }},
+           { "watch2":{
+               "brand":"Fast Track",
+           "Cost" : 1000,
+           "Image":"Path",
+           "Color":"Brown",
+           "Discount":"10%"
+           }}
+           ]
+           
+    }
+
+}
