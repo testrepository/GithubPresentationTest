@@ -35,7 +35,9 @@
     NSDictionary *jsonDict = [NSJSONSerialization JSONObjectWithData:jsonData
                                                                      options:kNilOptions
                                                                        error:&error];
-    NSLog(@"json dict=%@",jsonDict.allKeys);
+
+    NSLog(@"category dict=%@",[[jsonDict objectForKey:@"Watches"] allKeys]);
+
     
 }
 @end
